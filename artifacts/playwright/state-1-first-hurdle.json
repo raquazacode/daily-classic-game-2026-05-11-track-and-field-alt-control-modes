@@ -1,0 +1,88 @@
+{
+  "seed": 20260511,
+  "mode": "running",
+  "elapsedMs": 1800,
+  "finishTimeMs": null,
+  "distanceMeters": 14.22,
+  "remainingMeters": 85.78,
+  "trackLengthMeters": 100,
+  "speedMps": 8.55,
+  "stamina": 80.67,
+  "score": 431,
+  "bestScore": 431,
+  "controlMode": "rhythm",
+  "modeSwitches": 1,
+  "rhythmBursts": 1,
+  "strideStreak": 9,
+  "bestStrideStreak": 9,
+  "hurdleHits": 0,
+  "hurdlesCleared": 1,
+  "perfectClears": 0,
+  "lastHurdleBonus": 140,
+  "nextHurdleDistance": 13.78,
+  "rhythmOffsetMs": 40,
+  "rhythmBeatMs": 220,
+  "assistMs": 0,
+  "statusLine": "Hurdle 1 cleared. Carry the pace.",
+  "recentEvents": [
+    "Enter starts a new heat.",
+    "A / Left Arrow and L / Right Arrow drive the stride cycle.",
+    "C switches between Classic and Rhythm control styles. P pauses and R resets.",
+    "The gun fired. Build speed before the first hurdle.",
+    "Stride chain +36.",
+    "Control mode switched to rhythm.",
+    "Hurdle 1 clear +140."
+  ],
+  "player": {
+    "x": 238,
+    "y": 428,
+    "jumpHeightPx": 92.2,
+    "jumpCooldownMs": 80,
+    "strideSide": "left",
+    "poseTimerMs": 0
+  },
+  "hurdles": [
+    {
+      "id": 1,
+      "distance": 14,
+      "accent": "#7bdff2",
+      "status": "cleared"
+    },
+    {
+      "id": 2,
+      "distance": 28,
+      "accent": "#ff8364",
+      "status": "upcoming"
+    },
+    {
+      "id": 3,
+      "distance": 42,
+      "accent": "#ffd166",
+      "status": "upcoming"
+    },
+    {
+      "id": 4,
+      "distance": 56,
+      "accent": "#80ed99",
+      "status": "upcoming"
+    },
+    {
+      "id": 5,
+      "distance": 70,
+      "accent": "#7bdff2",
+      "status": "upcoming"
+    },
+    {
+      "id": 6,
+      "distance": 84,
+      "accent": "#ff8364",
+      "status": "upcoming"
+    },
+    {
+      "id": 7,
+      "distance": 96,
+      "accent": "#ffd166",
+      "status": "upcoming"
+    }
+  ]
+}

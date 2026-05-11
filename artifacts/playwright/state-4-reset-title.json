@@ -1,0 +1,84 @@
+{
+  "seed": 20260511,
+  "mode": "title",
+  "elapsedMs": 0,
+  "finishTimeMs": null,
+  "distanceMeters": 0,
+  "remainingMeters": 100,
+  "trackLengthMeters": 100,
+  "speedMps": 0,
+  "stamina": 100,
+  "score": 0,
+  "bestScore": 6166,
+  "controlMode": "classic",
+  "modeSwitches": 0,
+  "rhythmBursts": 0,
+  "strideStreak": 0,
+  "bestStrideStreak": 0,
+  "hurdleHits": 0,
+  "hurdlesCleared": 0,
+  "perfectClears": 0,
+  "lastHurdleBonus": 0,
+  "nextHurdleDistance": 14,
+  "rhythmOffsetMs": 0,
+  "rhythmBeatMs": 220,
+  "assistMs": 0,
+  "statusLine": "Press Enter to start. Alternate A and L to sprint, tap C for Rhythm mode, and Space to jump.",
+  "recentEvents": [
+    "Enter starts a new heat.",
+    "A / Left Arrow and L / Right Arrow drive the stride cycle.",
+    "C switches between Classic and Rhythm control styles. P pauses and R resets."
+  ],
+  "player": {
+    "x": 238,
+    "y": 428,
+    "jumpHeightPx": 0,
+    "jumpCooldownMs": 0,
+    "strideSide": "left",
+    "poseTimerMs": 0
+  },
+  "hurdles": [
+    {
+      "id": 1,
+      "distance": 14,
+      "accent": "#7bdff2",
+      "status": "upcoming"
+    },
+    {
+      "id": 2,
+      "distance": 28,
+      "accent": "#ff8364",
+      "status": "upcoming"
+    },
+    {
+      "id": 3,
+      "distance": 42,
+      "accent": "#ffd166",
+      "status": "upcoming"
+    },
+    {
+      "id": 4,
+      "distance": 56,
+      "accent": "#80ed99",
+      "status": "upcoming"
+    },
+    {
+      "id": 5,
+      "distance": 70,
+      "accent": "#7bdff2",
+      "status": "upcoming"
+    },
+    {
+      "id": 6,
+      "distance": 84,
+      "accent": "#ff8364",
+      "status": "upcoming"
+    },
+    {
+      "id": 7,
+      "distance": 96,
+      "accent": "#ffd166",
+      "status": "upcoming"
+    }
+  ]
+}

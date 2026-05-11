@@ -1,0 +1,90 @@
+{
+  "seed": 20260511,
+  "mode": "finished",
+  "elapsedMs": 11550,
+  "finishTimeMs": 11550,
+  "distanceMeters": 100,
+  "remainingMeters": 0,
+  "trackLengthMeters": 100,
+  "speedMps": 7.71,
+  "stamina": 47.82,
+  "score": 6039,
+  "bestScore": 6166,
+  "controlMode": "rhythm",
+  "modeSwitches": 7,
+  "rhythmBursts": 9,
+  "strideStreak": 1,
+  "bestStrideStreak": 9,
+  "hurdleHits": 0,
+  "hurdlesCleared": 7,
+  "perfectClears": 3,
+  "lastHurdleBonus": 140,
+  "nextHurdleDistance": null,
+  "rhythmOffsetMs": 110,
+  "rhythmBeatMs": 220,
+  "assistMs": 0,
+  "statusLine": "Finished in 11.55s. Press Enter to run another heat.",
+  "recentEvents": [
+    "Perfect hurdle 5 +220.",
+    "Rhythm window stacked cleanly. Jump assist is primed.",
+    "Perfect hurdle 6 +220.",
+    "Control mode switched to classic.",
+    "Stride chain +36.",
+    "Control mode switched to rhythm.",
+    "Hurdle 7 clear +140.",
+    "Finish bonus +2820.",
+    "Heat complete in 11.55s with 7/7 hurdles cleared."
+  ],
+  "player": {
+    "x": 238,
+    "y": 428,
+    "jumpHeightPx": 0,
+    "jumpCooldownMs": 0,
+    "strideSide": "right",
+    "poseTimerMs": 0
+  },
+  "hurdles": [
+    {
+      "id": 1,
+      "distance": 14,
+      "accent": "#7bdff2",
+      "status": "cleared"
+    },
+    {
+      "id": 2,
+      "distance": 28,
+      "accent": "#ff8364",
+      "status": "cleared"
+    },
+    {
+      "id": 3,
+      "distance": 42,
+      "accent": "#ffd166",
+      "status": "cleared"
+    },
+    {
+      "id": 4,
+      "distance": 56,
+      "accent": "#80ed99",
+      "status": "perfect"
+    },
+    {
+      "id": 5,
+      "distance": 70,
+      "accent": "#7bdff2",
+      "status": "perfect"
+    },
+    {
+      "id": 6,
+      "distance": 84,
+      "accent": "#ff8364",
+      "status": "perfect"
+    },
+    {
+      "id": 7,
+      "distance": 96,
+      "accent": "#ffd166",
+      "status": "cleared"
+    }
+  ]
+}
