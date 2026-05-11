@@ -1,0 +1,17 @@
+{
+  "name": "daily-classic-game-2026-05-11-track-and-field-alt-control-modes",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "node --test tests/game-core.test.mjs && node scripts/self-check.mjs",
+    "preview": "vite preview",
+    "capture": "node scripts/playwright-capture.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.58.2",
+    "vite": "^7.3.1"
+  }
+}
